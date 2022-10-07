@@ -1,0 +1,285 @@
+biosample_accession	library_ID	title	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	design_description	filetype	filename	filename2	filename3	filename4	assembly	fasta_file
+SAMN31109243	1732_HTHC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1732_S0_L001_R1_001.fastq.gz	1732_S0_L001_R2_001.fastq.gz				
+SAMN31109244	2550_ATHC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2550_S0_L001_R1_001.fastq.gz	2550_S0_L001_R2_001.fastq.gz				
+SAMN31109245	1765_HTAC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1765_S0_L001_R1_001.fastq.gz	1765_S0_L001_R2_001.fastq.gz				
+SAMN31109246	1536_HTAC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1536_S0_L001_R1_001.fastq.gz	1536_S0_L001_R2_001.fastq.gz				
+SAMN31109247	1238_HTHC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1238_S0_L001_R1_001.fastq.gz	1238_S0_L001_R2_001.fastq.gz				
+SAMN31109248	1559_ATAC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1559_S0_L001_R1_001.fastq.gz	1559_S0_L001_R2_001.fastq.gz				
+SAMN31109249	2564_ATHC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2564_S0_L001_R1_001.fastq.gz	2564_S0_L001_R2_001.fastq.gz				
+SAMN31109250	1303_HTAC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1303_S0_L001_R1_001.fastq.gz	1303_S0_L001_R2_001.fastq.gz				
+SAMN31109251	1296_ATHC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1296_S0_L001_R1_001.fastq.gz	1296_S0_L001_R2_001.fastq.gz				
+SAMN31109252	2197_ATHC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2197_S0_L001_R1_001.fastq.gz	2197_S0_L001_R2_001.fastq.gz				
+SAMN31109253	1225_HTAC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1225_S0_L001_R1_001.fastq.gz	1225_S0_L001_R2_001.fastq.gz				
+SAMN31109254	2861_ATHC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2861_S0_L001_R1_001.fastq.gz	2861_S0_L001_R2_001.fastq.gz				
+SAMN31109255	2064_HTAC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2064_S0_L001_R1_001.fastq.gz	2064_S0_L001_R2_001.fastq.gz				
+SAMN31109256	1168_HTHC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1168_S0_L001_R1_001.fastq.gz	1168_S0_L001_R2_001.fastq.gz				
+SAMN31109257	2300_HTHC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2300_S0_L001_R1_001.fastq.gz	2300_S0_L001_R2_001.fastq.gz				
+SAMN31109258	1184_HTHC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1184_S0_L001_R1_001.fastq.gz	1184_S0_L001_R2_001.fastq.gz				
+SAMN31109259	1757_ATAC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1757_S0_L001_R1_001.fastq.gz	1757_S0_L001_R2_001.fastq.gz				
+SAMN31109260	2012_ATAC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2012_S0_L001_R1_001.fastq.gz	2012_S0_L001_R2_001.fastq.gz				
+SAMN31109261	1051_ATAC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1051_S0_L001_R1_001.fastq.gz	1051_S0_L001_R2_001.fastq.gz				
+SAMN31109262	2877_ATHC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2877_S0_L001_R1_001.fastq.gz	2877_S0_L001_R2_001.fastq.gz				
+SAMN31109263	1103_ATAC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1103_S0_L001_R1_001.fastq.gz	1103_S0_L001_R2_001.fastq.gz				
+SAMN31109264	1755_ATAC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1755_S0_L001_R1_001.fastq.gz	1755_S0_L001_R2_001.fastq.gz				
+SAMN31109265	1728_HTAC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1728_S0_L001_R1_001.fastq.gz	1728_S0_L001_R2_001.fastq.gz				
+SAMN31109266	1427_HTHC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1427_S0_L001_R1_001.fastq.gz	1427_S0_L001_R2_001.fastq.gz				
+SAMN31109267	1090_HTHC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1090_S0_L001_R1_001.fastq.gz	1090_S0_L001_R2_001.fastq.gz				
+SAMN31109268	1487_HTAC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1487_S0_L001_R1_001.fastq.gz	1487_S0_L001_R2_001.fastq.gz				
+SAMN31109269	2878_ATHC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2878_S0_L001_R1_001.fastq.gz	2878_S0_L001_R2_001.fastq.gz				
+SAMN31109270	2409_ATHC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2409_S0_L001_R1_001.fastq.gz	2409_S0_L001_R2_001.fastq.gz				
+SAMN31109271	1047_ATAC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1047_S0_L001_R1_001.fastq.gz	1047_S0_L001_R2_001.fastq.gz				
+SAMN31109272	2413_ATAC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2413_S0_L001_R1_001.fastq.gz	2413_S0_L001_R2_001.fastq.gz				
+SAMN31109273	2072_HTAC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2072_S0_L001_R1_001.fastq.gz	2072_S0_L001_R2_001.fastq.gz				
+SAMN31109274	1820_HTHC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1820_S0_L001_R1_001.fastq.gz	1820_S0_L001_R2_001.fastq.gz				
+SAMN31109275	1415_HTHC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1415_S0_L001_R1_001.fastq.gz	1415_S0_L001_R2_001.fastq.gz				
+SAMN31109276	1159_ATAC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1159_S0_L001_R1_001.fastq.gz	1159_S0_L001_R2_001.fastq.gz				
+SAMN31109277	1445_ATAC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1445_S0_L001_R1_001.fastq.gz	1445_S0_L001_R2_001.fastq.gz				
+SAMN31109278	1641_ATAC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1641_S0_L001_R1_001.fastq.gz	1641_S0_L001_R2_001.fastq.gz				
+SAMN31109279	1059_ATAC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1059_S0_L001_R1_001.fastq.gz	1059_S0_L001_R2_001.fastq.gz				
+SAMN31109280	2087_HTHC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2087_S0_L001_R1_001.fastq.gz	2087_S0_L001_R2_001.fastq.gz				
+SAMN31109281	1707_HTAC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1707_S0_L001_R1_001.fastq.gz	1707_S0_L001_R2_001.fastq.gz				
+SAMN31109282	1563_ATAC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1563_S0_L001_R1_001.fastq.gz	1563_S0_L001_R2_001.fastq.gz				
+SAMN31109283	2212_ATHC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2212_S0_L001_R1_001.fastq.gz	2212_S0_L001_R2_001.fastq.gz				
+SAMN31109284	1205_ATHC_8 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1205_S0_L001_R1_001.fastq.gz	1205_S0_L001_R2_001.fastq.gz				
+SAMN31109285	1281_ATHC_2 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1281_S0_L001_R1_001.fastq.gz	1281_S0_L001_R2_001.fastq.gz				
+SAMN31109286	2306_ATAC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2306_S0_L001_R1_001.fastq.gz	2306_S0_L001_R2_001.fastq.gz				
+SAMN31109287	1647_HTAC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1647_S0_L001_R1_001.fastq.gz	1647_S0_L001_R2_001.fastq.gz				
+SAMN31109288	1582_HTAC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1582_S0_L001_R1_001.fastq.gz	1582_S0_L001_R2_001.fastq.gz				
+SAMN31109289	1777_ATAC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1777_S0_L001_R1_001.fastq.gz	1777_S0_L001_R2_001.fastq.gz				
+SAMN31109290	2879_ATHC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2879_S0_L001_R1_001.fastq.gz	2879_S0_L001_R2_001.fastq.gz				
+SAMN31109291	2668_ATHC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2668_S0_L001_R1_001.fastq.gz	2668_S0_L001_R2_001.fastq.gz				
+SAMN31109292	1416_HTHC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1416_S0_L001_R1_001.fastq.gz	1416_S0_L001_R2_001.fastq.gz				
+SAMN31109293	2185_HTHC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2185_S0_L001_R1_001.fastq.gz	2185_S0_L001_R2_001.fastq.gz				
+SAMN31109294	1596_HTAC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1596_S0_L001_R1_001.fastq.gz	1596_S0_L001_R2_001.fastq.gz				
+SAMN31109295	1459_ATHC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1459_S0_L001_R1_001.fastq.gz	1459_S0_L001_R2_001.fastq.gz				
+SAMN31109296	1571_HTAC_30 hour_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1571_S0_L001_R1_001.fastq.gz	1571_S0_L001_R2_001.fastq.gz				
+SAMN31109297	1709_HTHC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1709_S0_L001_R1_001.fastq.gz	1709_S0_L001_R2_001.fastq.gz				
+SAMN31109298	1329_HTAC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1329_S0_L001_R1_001.fastq.gz	1329_S0_L001_R2_001.fastq.gz				
+SAMN31109299	2513_HTAC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2513_S0_L001_R1_001.fastq.gz	2513_S0_L001_R2_001.fastq.gz				
+SAMN31109300	1147_ATHC_12 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1147_S0_L001_R1_001.fastq.gz	1147_S0_L001_R2_001.fastq.gz				
+SAMN31109301	2304_HTHC_4 week_HoloInt_WGBS	DNA methylome from Pocillopora acuta (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	2304_S0_L001_R1_001.fastq.gz	2304_S0_L001_R2_001.fastq.gz				
+SAMN31109303	1312_BB_12 week_HoloInt_WGBS	DNA methylome from Montipora capitata (WGBS)	Bisulfite-Seq	METAGENOMIC	RANDOM PCR	paired	ILLUMINA	Illumina NovaSeq 6000	WGBS libraries prepared by the Putnam Lab using the Zymo Pico Methyl Seq Library Prep protocol	fastq	1312_S0_L001_R1_001.fastq.gz	1312_S0_L001_R2_001.fastq.gz				
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
