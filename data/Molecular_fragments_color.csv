@@ -1,0 +1,254 @@
+Plug_ID,Species,Treatment,Timepoint,Sample_Date,ColorScore,PhotoTP,PhotoDate,Notes
+1037,Mcapitata,ATAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1041,Pacuta,ATAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1043,Pacuta,ATAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1047,Pacuta,ATAC,7,20181006,9.66477223,Time2,20181003,
+1050,Pacuta,ATAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1051,Pacuta,ATAC,8,20181020,11.90783722,Time4,20181018,
+1058,Mcapitata,ATAC,7,20181006,14.81667813,Time2,20181003,
+1059,Pacuta,ATAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1060,Pacuta,ATAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1074,Mcapitata,HTHC,10,20181117,1.56103840,Time8,20181116,
+1076,Mcapitata,ATAC,11,20181215,13.19144031,Time12,20181214,
+1078,Mcapitata,HTHC,9,20181103,14.74714367,Time6,20181102,
+1082,Mcapitata,HTHC,8,20181020,8.19749294,Time4,20181018,
+1083,Mcapitata,ATAC,8,20181020,11.73249327,Time4,20181018,
+1090,Pacuta,HTHC,7,20181006,11.77612975,Time2,20181003,
+1095,Mcapitata,ATAC,10,20181117,9.17560998,Time8,20181116,
+1101,Mcapitata,ATAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1103,Pacuta,ATAC,11,20181215,14.16901986,Time12,20181214,
+1108,Mcapitata,ATAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1114,Mcapitata,ATAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1120,Mcapitata,ATAC,12,20190112,-7.42348200,Time16,20190111,
+1121,Mcapitata,ATAC,9,20181103,11.24698709,Time6,20181102,
+1124,Mcapitata,HTHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1126,Mcapitata,HTHC,7,20181006,14.34311639,Time2,20181003,
+1128,Mcapitata,HTHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1131,Pacuta,HTHC,9,20181103,-45.19039330,Time6,20181102,
+1138,Pacuta,HTHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1140,Mcapitata,HTHC,12,20190112,10.18282616,Time16,20190111,
+1141,Pacuta,ATAC,9,20181103,10.24160302,Time6,20181102,
+1145,Mcapitata,HTHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1147,Pacuta,ATHC,11,20181215,-18.95731665,Time12,20181214,
+1148,Mcapitata,ATHC,9,20181103,12.66426653,Time6,20181102,
+1154,Mcapitata,ATHC,12,20190112,14.78278211,Time16,20190111,
+1159,Pacuta,ATAC,10,20181117,12.09163839,Time8,20181116,
+1164,Mcapitata,HTHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1168,Pacuta,HTHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1169,Pacuta,HTHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1177,Pacuta,HTHC,11,20181215,-72.43698869,Time12,20181214,
+1178,Mcapitata,HTHC,11,20181215,12.26497667,Time12,20181214,
+1184,Pacuta,HTHC,8,20181020,7.75306714,Time4,20181018,
+1196,Mcapitata,ATAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1204,Mcapitata,ATHC,10,20181117,5.82111763,Time8,20181116,
+1205,Pacuta,ATHC,10,20181117,14.26898806,Time8,20181116,
+1207,Pacuta,ATHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1212,Mcapitata,ATHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1218,Mcapitata,ATHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1219,Pacuta,ATHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1220,Pacuta,ATHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1221,Mcapitata,ATHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1223,Mcapitata,ATHC,7,20181006,9.71984997,Time2,20181003,
+1225,Pacuta,HTAC,10,20181117,-10.28053493,Time8,20181116,
+1227,Pacuta,HTHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1229,Mcapitata,ATHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1235,Mcapitata,HTAC,8,20181020,12.45714150,Time4,20181018,
+1236,Mcapitata,HTAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1237,Mcapitata,ATHC,11,20181215,-4.88842632,Time12,20181214,
+1238,Pacuta,HTHC,10,20181117,-59.71025042,Time8,20181116,
+1239,Pacuta,HTHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1246,Mcapitata,HTHC,8,20181020,12.93281990,Time4,20181018,
+1248,Mcapitata,HTAC,11,20181215,-13.94021013,Time12,20181214,
+1250,Mcapitata,HTHC,7,20181006,10.77969827,Time2,20181005,
+1254,Pacuta,ATHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1260,Mcapitata,ATHC,8,20181020,5.33653846,Time4,20181018,
+1269,Mcapitata,HTAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1270,Mcapitata,HTHC,11,20181215,-49.08614354,Time12,20181214,
+1274,Mcapitata,HTHC,12,20190112,14.18939550,Time16,20190111,
+1277,Mcapitata,HTHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1278,Mcapitata,HTAC,7,20181006,14.84829642,Time2,20181005,
+1281,Pacuta,ATHC,7,20181006,NA,Time6,20181102,
+1289,Mcapitata,HTAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1296,Pacuta,ATHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1302,Pacuta,HTAC,9,20181103,3.51053511,Time6,20181102,
+1303,Pacuta,HTAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1306,Mcapitata,HTAC,9,20181103,14.79221691,Time6,20181102,
+1315,Mcapitata,HTAC,10,20181117,14.55357803,Time8,20181116,
+1317,Mcapitata,HTHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1321,Mcapitata,HTAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1323,Mcapitata,HTHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1328,Mcapitata,HTHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1329,Pacuta,HTAC,8,20181020,2.90456588,Time4,20181018,
+1330,Pacuta,HTAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1331,Mcapitata,HTHC,9,20181103,12.06696186,Time6,20181102,
+1332,Mcapitata,HTHC,10,20181117,-10.57031825,Time8,20181116,
+1343,Pacuta,HTHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1345,Mcapitata,HTHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1415,Pacuta,HTHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1416,Pacuta,HTHC,11,20181215,-92.70416616,Time12,20181214,
+1418,Pacuta,HTHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1420,Mcapitata,ATAC,9,20181103,15.65127263,Time6,20181103,
+1427,Pacuta,HTHC,7,20181006,-10.19240074,Time2,20181005,
+1436,Mcapitata,ATAC,8,20181020,8.89976392,Time4,20181018,
+1445,Pacuta,ATAC,7,20181006,-0.78800830,Time2,20181005,
+1449,Mcapitata,HTHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1451,Pacuta,ATHC,9,20181103,10.86526703,Time6,20181102,
+1452,Mcapitata,ATAC,12,20190112,11.92708298,Time16,20190111,
+1455,Mcapitata,ATAC,7,20181006,12.19387755,Time2,20181005,
+1459,Pacuta,ATHC,8,20181020,15.39192476,Time4,20181018,
+1466,Pacuta,HTAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1467,Mcapitata,HTAC,9,20181103,11.91575143,Time6,20181102,
+1468,Pacuta,ATAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1471,Pacuta,ATAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1478,Mcapitata,HTAC,10,20181117,6.24735811,Time8,20181116,
+1481,Mcapitata,HTAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1486,Pacuta,HTAC,9,20181103,-15.24243738,Time6,20181102,
+1487,Pacuta,HTAC,7,20181006,5.94218471,Time2,20181003,
+1496,Mcapitata,HTAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1499,Mcapitata,ATAC,7,20181006,13.76885827,Time2,20181003,
+1536,Pacuta,HTAC,10,20181117,11.94509993,Time8,20181116,
+1542,Pacuta,ATAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1544,Mcapitata,ATHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1548,Mcapitata,ATAC,3,20180922,NA,NA,NA,
+1559,Pacuta,ATAC,10,20181117,13.35520665,Time8,20181116,
+1561,Mcapitata,ATAC,10,20181117,4.30567126,Time8,20181116,
+1562,Mcapitata,HTAC,11,20181215,11.49104771,Time12,20181214,
+1563,Pacuta,ATAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1571,Pacuta,HTAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1579,Mcapitata,HTAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1580,Mcapitata,ATAC,9,20181103,14.09381868,Time6,20181102,
+1581,Pacuta,HTAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1582,Pacuta,HTAC,11,20181215,-78.34850414,Time12,20181214,
+1583,Mcapitata,HTAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1588,Mcapitata,HTAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1594,Pacuta,ATAC,9,20181103,12.75459989,Time6,20181102,
+1595,Pacuta,HTHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1596,Pacuta,HTAC,11,20181215,-94.71211446,Time12,20181214,
+1600,Mcapitata,ATAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1604,Mcapitata,HTHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1609,Mcapitata,ATAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1610,Mcapitata,ATAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1611,Mcapitata,ATAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1617,Pacuta,HTAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1628,Mcapitata,ATAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1631,Mcapitata,ATAC,10,20181117,13.52140885,Time8,20181117,
+1632,Mcapitata,HTAC,12,20190112,13.83046420,Time16,20190111,
+1637,Pacuta,ATAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1641,Pacuta,ATAC,10,20181117,14.43558610,Time8,20181117,
+1642,Pacuta,HTAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1644,Mcapitata,ATAC,11,20181215,14.69725583,Time12,20181214,
+1645,Mcapitata,HTAC,7,20181006,14.44133135,Time2,20181003,
+1647,Pacuta,HTAC,11,20181215,-23.75108584,Time12,20181214,
+1651,Mcapitata,ATAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1652,Mcapitata,ATAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1653,Pacuta,HTAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1676,Pacuta,HTHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1689,Mcapitata,HTHC,10,20181117,0.29110274,Time8,20181116,
+1694,Mcapitata,HTHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1696,Pacuta,HTAC,9,20181103,-10.12861452,Time6,20181102,
+1701,Pacuta,HTAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1705,Mcapitata,HTAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1706,Mcapitata,ATHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1707,Pacuta,HTAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1709,Pacuta,HTHC,8,20181020,12.93293036,Time4,20181018,
+1721,Pacuta,HTHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1722,Mcapitata,HTAC,7,20181006,13.30115809,Time2,20181003,
+1728,Pacuta,HTAC,7,20181006,10.95919456,Time2,20181005,
+1729,Mcapitata,HTAC,12,20190112,14.74785479,Time16,20190111,
+1732,Pacuta,HTHC,10,20181117,-40.88757971,Time8,20181116,
+1744,Pacuta,HTAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+1751,Mcapitata,HTAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+1754,Mcapitata,HTAC,10,20181117,12.90908996,Time8,20181116,
+1755,Pacuta,ATAC,8,20181020,5.27120156,Time4,20181018,
+1757,Pacuta,ATAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1762,Pacuta,ATAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1765,Pacuta,HTAC,8,20181020,-6.36601880,Time4,20181018,
+1767,Pacuta,HTAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+1775,Pacuta,ATAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1776,Mcapitata,ATAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+1777,Pacuta,ATAC,11,20181215,15.66285412,Time12,20181214,
+1779,Mcapitata,ATAC,8,20181020,14.59362697,Time4,20181018,
+1820,Pacuta,HTHC,7,20181006,4.44829775,Time2,20181005,
+1826,Mcapitata,ATHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+1997,Mcapitata,HTAC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+2000,Mcapitata,HTAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2002,Pacuta,ATAC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2005,Pacuta,HTAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2007,Mcapitata,HTAC,12,20190112,8.61745479,Time16,20190111,
+2009,Mcapitata,HTHC,9,20181103,14.99217428,Time6,20181102,
+2012,Pacuta,ATAC,8,20181020,-9.08680745,Time4,20181018,
+2016,Mcapitata,ATHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+2021,Mcapitata,HTAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2026,Pacuta,HTAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2064,Pacuta,HTAC,10,20181117,-17.75882655,Time8,20181116,
+2067,Mcapitata,HTHC,8,20181020,14.91348892,Time4,20181018,
+2068,Mcapitata,ATHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2072,Pacuta,HTAC,7,20181006,5.41355958,Time2,20181003,
+2081,Mcapitata,HTHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2087,Pacuta,HTHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+2153,Mcapitata,HTAC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2183,Mcapitata,HTAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2185,Pacuta,HTHC,11,20181215,-76.17471813,Time12,20181214,
+2188,Mcapitata,ATHC,11,20181215,11.82896568,Time12,20181214,
+2190,Mcapitata,HTHC,12,20190112,12.82935835,Time16,20190111,
+2195,Pacuta,HTHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2197,Pacuta,ATHC,10,20181117,3.43846494,Time7,20181109,
+2202,Pacuta,HTHC,9,20181103,-37.37854864,Time6,20181102,
+2204,Mcapitata,HTHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2210,Pacuta,HTHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2212,Pacuta,ATHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+2300,Pacuta,HTHC,10,20181117,-67.00091519,Time8,20181116,
+2302,Mcapitata,ATAC,11,20181215,15.15169664,Time12,20181214,
+2304,Pacuta,HTHC,8,20181020,-9.93921847,Time4,20181018,
+2305,Pacuta,HTHC,9,20181103,0.41607348,Time6,20181102,
+2306,Pacuta,ATAC,11,20181215,14.14032709,Time12,20181214,
+2357,Pacuta,ATAC,9,20181103,-6.86549609,Time6,20181103,
+2363,Pacuta,ATAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2380,Mcapitata,HTAC,11,20181215,8.25234879,Time12,20181214,
+2386,Mcapitata,HTAC,8,20181020,14.56660458,Time4,20181018,
+2402,Mcapitata,ATAC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+2403,Mcapitata,ATAC,12,20190112,14.60586994,Time16,20190111,
+2409,Pacuta,ATHC,7,20181006,12.16192076,Time2,20181005,
+2410,Mcapitata,HTAC,8,20181020,-4.07570562,Time4,20181018,
+2412,Mcapitata,HTAC,9,20181103,10.60205849,Time6,20181102,
+2413,Pacuta,ATAC,7,20181006,12.41562385,Time2,20181003,
+2414,Pacuta,HTAC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2419,Mcapitata,HTHC,7,20181006,11.75619786,Time2,20181005,
+2511,Mcapitata,HTHC,11,20181215,5.13368945,Time12,20181214,
+2513,Pacuta,HTAC,8,20181020,-0.43459075,Time4,20181018,
+2518,Mcapitata,HTHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2527,Pacuta,HTHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2534,Pacuta,ATHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2550,Pacuta,ATHC,10,20181117,15.15498743,Time8,20181117,
+2554,Mcapitata,ATHC,10,20181117,12.92192740,Time8,20181117,
+2555,Mcapitata,ATHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+2561,Mcapitata,ATHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2564,Pacuta,ATHC,8,20181020,-1.84635215,Time4,20181018,
+2668,Pacuta,ATHC,11,20181215,4.30594319,Time12,20181214,
+2731,Mcapitata,ATHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2733,Pacuta,ATHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2734,Mcapitata,ATHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2735,Mcapitata,ATHC,8,20181020,11.86135846,Time4,20181018,
+2736,Mcapitata,ATHC,12,20190112,15.11300570,Time16,20190111,
+2737,Mcapitata,ATHC,10,20181117,5.65446125,Time7,20181109,
+2743,Pacuta,ATHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2750,Pacuta,ATHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2753,Mcapitata,ATHC,8,20181020,14.49056302,Time4,20181018,
+2756,Mcapitata,ATHC,11,20181215,14.01213268,Time12,20181214,
+2860,Mcapitata,ATHC,7,20181006,10.44660245,Time2,20181005,
+2861,Pacuta,ATHC,8,20181020,-2.43601190,Time4,20181018,
+2862,Mcapitata,ATHC,9,20181103,15.69366309,Time6,20181103,
+2866,Mcapitata,ATHC,3,20180922,NA,NA,NA,Sampled prior to photos taken
+2870,Pacuta,ATHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
+2873,Pacuta,ATHC,9,20181103,15.41115904,Time6,20181103,
+2875,Mcapitata,ATHC,7,20181006,15.19133416,Time2,20181005,
+2877,Pacuta,ATHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+2878,Pacuta,ATHC,7,20181006,11.68968092,Time6,20181103,
+2879,Pacuta,ATHC,11,20181215,11.57780944,Time12,20181214,
+2977,Pacuta,ATHC,1,20180922,NA,NA,NA,Sampled prior to photos taken
+2979,Pacuta,ATHC,9,20181103,14.41792621,Time6,20181103,
+2986,Mcapitata,ATHC,5,20180923,NA,NA,NA,Sampled prior to photos taken
+2990,Mcapitata,ATHC,12,20190112,13.10897647,Time16,20190111,
+2993,Pacuta,ATHC,4,20180922,NA,NA,NA,Sampled prior to photos taken
+2995,Mcapitata,ATHC,9,20181103,9.62178006,Time6,20181103,
+2999,Pacuta,ATHC,6,20180929,NA,NA,NA,Sampled prior to photos taken
