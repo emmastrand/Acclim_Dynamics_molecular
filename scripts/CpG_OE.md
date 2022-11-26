@@ -175,3 +175,26 @@ fitdistr(cpg_anno$CpG_ratio, "normal")
     ##       mean           sd     
     ##   0.628995208   0.246128565 
     ##  (0.001901301) (0.001344423)
+
+## Weakly and heavily methylated genes
+
+``` r
+cpg_anno <- cpg_anno %>%
+  mutate(status = if_else(CpG_ratio >= intersect_pt[2], "weakly", "heavily"))
+
+nrow(cpg_anno) # 16,758
+```
+
+    ## [1] 16758
+
+``` r
+nrow(cpg_anno[cpg_anno$status == "weakly",]) # 13,023
+```
+
+    ## [1] 13023
+
+``` r
+nrow(cpg_anno[cpg_anno$status == "heavily",])# 3,735
+```
+
+    ## [1] 3735

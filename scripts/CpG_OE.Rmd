@@ -118,3 +118,16 @@ intersect_pt <- intersect(mixmodel[["mu"]][1], mixmodel[["sigma"]][1],
 fitdistr(cpg_anno$CpG_ratio, "normal")
 ```
 
+## Weakly and heavily methylated genes 
+
+```{r}
+cpg_anno <- cpg_anno %>%
+  mutate(status = if_else(CpG_ratio >= intersect_pt[2], "weakly", "heavily"))
+
+nrow(cpg_anno) # 16,758
+nrow(cpg_anno[cpg_anno$status == "weakly",]) # 13,023
+nrow(cpg_anno[cpg_anno$status == "heavily",])# 3,735
+```
+
+
+
